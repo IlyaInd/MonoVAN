@@ -1,0 +1,13 @@
+__pycache__
+.DS_Store
+*.pyc
+*_disp.jpg
+*_disp.npy
+*.npz
+kitti_data
+models
+/wandb/
+/download_kitti.py
+/NOTES.md
+/kitti_dataset/
+*.tar
